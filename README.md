@@ -20,4 +20,4 @@ This is my development-focused GitHub account. You'll find my other projects and
 
 ---
 
-*The other account has the headshot. This one has the worktrees.*
+*Professionally curious. Chronically over-engineering.*
